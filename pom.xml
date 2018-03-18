@@ -20,6 +20,7 @@
 	<description>gazua</description>
 	
 	<modules>
+		<module>gazua-api</module>
 	</modules>
 	
 	<properties>
