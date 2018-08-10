@@ -1,7 +1,5 @@
 package io.xunyss.gazua.api.bithumb;
 
-import java.util.Date;
-
 /**
  * 
  * @author XUNYSS
@@ -12,6 +10,6 @@ public class Api {
 	
 	public void ticker() {
 	
-		
+		System.out.println(apiUrl);
 	}
 }
